@@ -1,4 +1,6 @@
-# Desafio 02 - Ignite
+# [estudos] Desafio 02 - Ignite
+
+> This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
 
 Study challenge/exercise from the React.js module of Ignite (Rocketseat), 2021 class. It is a movie explorer organized by genre: a sidebar lists the genres (action, comedy, documentary, drama, horror, family) and, upon selecting one, the content area displays the corresponding movies consumed from a fake API.
 
