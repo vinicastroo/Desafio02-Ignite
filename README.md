@@ -1,24 +1,24 @@
 # Desafio 02 - Ignite
 
-Desafio/exercício de estudo do módulo de React.js do Ignite (Rocketseat), turma 2021. É um explorador de filmes organizados por gênero: uma barra lateral lista os gêneros (ação, comédia, documentário, drama, terror, família) e, ao selecionar um, a área de conteúdo exibe os filmes correspondentes consumidos de uma API fake.
+Study challenge/exercise from the React.js module of Ignite (Rocketseat), 2021 class. It is a movie explorer organized by genre: a sidebar lists the genres (action, comedy, documentary, drama, horror, family) and, upon selecting one, the content area displays the corresponding movies consumed from a fake API.
 
-## Tecnologias
+## Technologies
 
 - React
 - TypeScript
 - webpack
 - axios
-- json-server (API fake)
+- json-server (fake API)
 - react-feather / react-icons
 
-## Como rodar
+## How to run
 
 ```bash
 yarn install
 yarn server
 ```
 
-Em outro terminal:
+In another terminal:
 
 ```bash
 yarn dev
